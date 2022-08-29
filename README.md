@@ -6,4 +6,6 @@ This Daily Work Scheduler lets you plan your daily taks and also shows which tim
 
 ## Screenshot of application
 
+Link deployed application: https://hoffnik.github.io/challenge5-scheduler/
+
 ![screenshot](./assets/images/Screenshot.png)
